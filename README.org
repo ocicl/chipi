@@ -1,0 +1,9 @@
+* chipi
+
+House automation bus in Common Lisp
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/mdbergmann/chipi.git |
+| commit  | d74b88d                                     |
+| systems | chipi                                       |
+|---------+---------------------------------------------|
