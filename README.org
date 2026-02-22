@@ -4,6 +4,6 @@ House automation bus in Common Lisp
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/mdbergmann/chipi.git |
-| commit  | 95e5ed8                                     |
+| commit  | 3de82c4                                     |
 | systems | chipi                                       |
 |---------+---------------------------------------------|
